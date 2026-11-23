@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+*.pdf
+*.txt
+output/
+.pytest_cache/
